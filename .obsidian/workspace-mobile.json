@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "210b365c6160d136",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a8b45ef62064d0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0ef85afc6da58ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Decorators.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "396ee23c1ce22b45",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5239247d2d249959",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b8bfbbd6918443a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "199f895db87e9845",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "0988fe66df3afd07",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "90b202b228722ea7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dc6ecaac23bfbec",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Python/Decorators.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "byModifiedTimeReverse",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "001a3a2ac39edda0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Python/Decorators.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c45c68ababb72365",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Python/Decorators.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "c0ef85afc6da58ac",
+  "lastOpenFiles": [
+    "Python/Recursive Functions.md",
+    "Python/Functions.md",
+    "Python.md",
+    "🏠HOME.md",
+    "Python/Dictionaries.md",
+    "Python/Iterators and Iterables.md",
+    "Python/Loops.md",
+    "Python/Basics.md",
+    "Python/Zip.md",
+    "Python/Tuples.md",
+    "Python/List.md",
+    "docker_mysql.md",
+    "Python/Memoization with Decorators.md",
+    "Python/Working with Dictionaries.md",
+    "Python/Conditional Statements.md",
+    "Python/Modules.md",
+    "Python/Decorators.md",
+    "Python/Sets and Frozen-Sets.md",
+    "Python/Extensive Example of SET.md",
+    "Python/File Management.md",
+    "Python/Python/Python (1)/Modules.md",
+    "Python/Python/Python (1)/Zip.md",
+    "Python/Python/Python (1)/Iterators and Iterables.md",
+    "Python/Python/Python (1)/Sets and Frozen-Sets.md",
+    "Python/Python/Python (1)/Memoization with Decorators.md",
+    "Python/Python/Python (1)/File Management.md",
+    "Python/Python/Python (1)",
+    "Python/Python",
+    "Python/Python.zip",
+    "Python",
+    "Python.zip",
+    "Misc/Credits+-+Images+&+Music.pdf",
+    "Misc/Pasted image 20240105223240.png",
+    "Misc/Pasted image 20240105221821.png",
+    "Misc/Pasted image 20240105194147.png",
+    "Misc/Pasted image 20240101142352.png",
+    "Misc/Pasted image 20231231223942.png",
+    "Misc/1025a70dbc96689d04d6bc6552f683bf~2.jpg"
+  ]
+}
