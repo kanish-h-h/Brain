@@ -5,7 +5,7 @@ banner_y: 0.44
 banner_x: 0.63637
 ---
 
-# Machine Learning
+# Data Science
 
 - **🐍Python**
 	- [[Python]]
@@ -25,6 +25,37 @@ banner_x: 0.63637
 	- [[NUMpy]]
 	- [[PANDAS]]
 	- [[MATPLOTLIB]]
+<br>
+- **🔢 Statistics**
+	- [[Statistics Fundamentals]]
+
+# Slot Machine
+
+- **PAR Sheets**:
+	- [[PAR Sheets]]
+	- [[Button + Features]]
+	- [[par sheet analysis]]
+
+- **Random**:
+	- [[Random]]
+	- [[Random Seeding]]
+	- [[Crypto Random]]
+
+# Projects
+
+- **💀 Cholera**
+	- [[Cholera - Documentation]]
+	- [[Cholera 1]]
+	- [[Cholera 2]]
+	- [[Cholera 3]]
+
+- **ACCLIP** 
+	- [[ACCLIP - Documentation]]
+	- [[ACCLIP mission]]
+	- [[ACCLIP mission Details]]
+
+- **🗺️ Daymet**
+	- [[Daymet - Documentation]]
 
 
 # Vault Info

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "327065301b5f8a41",
+        "id": "958a24fa679c005b",
         "type": "tabs",
         "children": [
           {
-            "id": "6723564588334374",
+            "id": "ac06578259adbadb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "slot_machine/Random.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "slot_machine/Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "slot_machine/Random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HOME.md"
+                "file": "slot_machine/Random.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,34 +148,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6723564588334374",
+  "active": "ac06578259adbadb",
   "lastOpenFiles": [
-    "Banners.md",
-    "MATPLOTLIB.md",
+    "🏠HOME.md",
+    "slot_machine/Random.md",
+    "slot_machine/par sheet analysis.md",
+    "slot_machine/Button + Features.md",
+    "slot_machine/PAR Sheets.md",
+    "slot_machine/Crazy 777 Analysis.md",
+    "Game Analyst Assignment.md",
+    "Interview.md",
     "NUMpy.md",
     "PANDAS.md",
     "Python.md",
-    "🏠HOME.md",
-    "Python/Modules.md",
-    "Python/File Management.md",
-    "Python/Memoization with Decorators.md",
-    "Python/Decorators.md",
-    "Python/Recursive Functions.md",
-    "Python/Functions.md",
-    "Python/Working with Dictionaries.md",
-    "Python/Iterators and Iterables.md",
-    "Python/Loops.md",
-    "Python/Conditional Statements.md",
-    "Python/Extensive Example of SET.md",
-    "Python (1)/Conditional Statements.md",
+    "Statistics Fundamentals.md",
+    "Stats Fundamentals/Histograms.md",
+    "Slot Machine.md",
+    "Stats Fundamentals/utils/Pasted image 20240923150606.png",
+    "slot_machine",
+    "Stats Fundamentals/utils/Pasted image 20240923145255.png",
+    "Stats Fundamentals/utils/Pasted image 20240923145242.png",
+    "Stats Fundamentals/utils",
+    "Stats Fundamentals",
+    "Daymet - Documentation.md",
+    "Projects/Daymet - Documentation.md",
+    "Climate change.md",
+    "Projects/Cholera 3.md",
+    "Projects/Cholera 2.md",
+    "Projects/Cholera 1.md",
+    "Projects/Cholera - Documentation.md",
+    "Projects/ACCLIP mission.md",
+    "Projects/ACCLIP mission Details.md",
+    "Projects/ACCLIP - Documentation.md",
+    "Projects",
+    "Cholera - Documentation.md",
+    "ACCLIP mission Details.md",
     "Python (1)",
-    "Python/Sets and Frozen-Sets.md",
-    "Python/Zip.md",
-    "Python/Dictionaries.md",
-    "Python/Tuples.md",
-    "Python/List.md",
-    "Python/Basics.md",
-    "Design Python",
-    "🎯Goal.md"
+    "Design Python"
   ]
 }
