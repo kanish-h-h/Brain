@@ -1,5 +1,4 @@
-### Notes on Python's `random` Module (Pseudo-Random Number Generators)
-
+### Notes on Python's `random` Module 
 ---
 
 #### Overview:

@@ -38,8 +38,21 @@ banner_x: 0.63637
 
 - **Random**:
 	- [[Random]]
+	- [[secrets]]
+	- [[PseudRandom Number Generators]]
 	- [[Random Seeding]]
-	- [[Crypto Random]]
+
+- **Cypto Random**:
+	- [[Cryptography Random]]
+
+# Math
+
+- **Statistics:**
+	- [[Normal Distribution]]
+	- [[log-normal Distribution]]
+	- [[Gamma Distribution]]
+	- [[Beta Distribution]]
+	- [[Triangular Distribution]]
 
 # Projects
 

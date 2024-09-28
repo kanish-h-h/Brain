@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "958a24fa679c005b",
+        "id": "12b060add1cdc141",
         "type": "tabs",
         "children": [
           {
-            "id": "ac06578259adbadb",
+            "id": "93a7b498605fd522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slot_machine/Random.md",
+                "file": "slot_machine/PseudRandom Number Generators.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "8a7b31a410956a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slot_machine/Random Seeding.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3ae7458f44ad850a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠HOME.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b991856009581ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slot_machine/Random Seeding.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slot_machine/Random.md",
+                "file": "🏠HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slot_machine/Random.md",
+                "file": "🏠HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +162,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slot_machine/Random.md"
+                "file": "🏠HOME.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,10 +184,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ac06578259adbadb",
+  "active": "3ae7458f44ad850a",
   "lastOpenFiles": [
+    "slot_machine/Random Seeding.md",
     "🏠HOME.md",
+    "slot_machine/PseudRandom Number Generators.md",
     "slot_machine/Random.md",
+    "slot_machine/secrets.md",
+    "MATPLOTLIB.md",
+    "Statistics Fundamentals.md",
+    "Python.md",
+    "Python/Zip.md",
+    "Math/Normal Distribution.md",
+    "Math",
     "slot_machine/par sheet analysis.md",
     "slot_machine/Button + Features.md",
     "slot_machine/PAR Sheets.md",
@@ -160,8 +205,6 @@
     "Interview.md",
     "NUMpy.md",
     "PANDAS.md",
-    "Python.md",
-    "Statistics Fundamentals.md",
     "Stats Fundamentals/Histograms.md",
     "Slot Machine.md",
     "Stats Fundamentals/utils/Pasted image 20240923150606.png",
@@ -175,14 +218,7 @@
     "Climate change.md",
     "Projects/Cholera 3.md",
     "Projects/Cholera 2.md",
-    "Projects/Cholera 1.md",
-    "Projects/Cholera - Documentation.md",
-    "Projects/ACCLIP mission.md",
-    "Projects/ACCLIP mission Details.md",
-    "Projects/ACCLIP - Documentation.md",
     "Projects",
-    "Cholera - Documentation.md",
-    "ACCLIP mission Details.md",
     "Python (1)",
     "Design Python"
   ]
