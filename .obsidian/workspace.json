@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12b060add1cdc141",
+        "id": "b279f2cad1396555",
         "type": "tabs",
         "children": [
           {
-            "id": "93a7b498605fd522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slot_machine/PseudRandom Number Generators.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a7b31a410956a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "slot_machine/Random Seeding.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3ae7458f44ad850a",
+            "id": "ead02ca6f467e6f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,19 +20,19 @@
             }
           },
           {
-            "id": "8b991856009581ad",
+            "id": "6041f11a121f2c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slot_machine/Random Seeding.md",
-                "mode": "source",
+                "file": "Research-Papers/U-Net.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "Research-Papers/U-Net.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "Research-Papers/U-Net.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HOME.md"
+                "file": "Research-Papers/U-Net.md"
               }
             }
           }
@@ -184,13 +160,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3ae7458f44ad850a",
+  "active": "6041f11a121f2c10",
   "lastOpenFiles": [
-    "slot_machine/Random Seeding.md",
+    "Research-Papers/utils-rp/U-Net-CNN.pdf",
+    "Research-Papers/U-Net.md",
+    "Research-Papers/utils-rp",
     "🏠HOME.md",
+    "Research-Papers",
+    "slot_machine/secrets.md",
+    "slot_machine/Random Seeding.md",
+    "slot_machine/PAR Sheets.md",
+    "slot_machine/Crazy 777 Analysis.md",
     "slot_machine/PseudRandom Number Generators.md",
     "slot_machine/Random.md",
-    "slot_machine/secrets.md",
     "MATPLOTLIB.md",
     "Statistics Fundamentals.md",
     "Python.md",
@@ -199,8 +181,6 @@
     "Math",
     "slot_machine/par sheet analysis.md",
     "slot_machine/Button + Features.md",
-    "slot_machine/PAR Sheets.md",
-    "slot_machine/Crazy 777 Analysis.md",
     "Game Analyst Assignment.md",
     "Interview.md",
     "NUMpy.md",
@@ -217,7 +197,6 @@
     "Projects/Daymet - Documentation.md",
     "Climate change.md",
     "Projects/Cholera 3.md",
-    "Projects/Cholera 2.md",
     "Projects",
     "Python (1)",
     "Design Python"
