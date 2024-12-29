@@ -56,6 +56,8 @@ banner_x: 0.63637
 
 # Projects
 
+- **SRGAN + Fourier Series**
+    - [[Fourier Series + SRGAN]]
 - **💀 Cholera**
 	- [[Cholera - Documentation]]
 	- [[Cholera 1]]

@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8b45ef62064d0e",
+        "id": "8ef3fa3768cd5ee2",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ef85afc6da58ac",
+            "id": "0d210d27476fb086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Decorators.md",
+                "file": "Research-Papers/U-Net.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "U-Net"
+            }
+          },
+          {
+            "id": "2cefdd34ef4a3804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠HOME.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🏠HOME"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +52,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +69,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -61,7 +82,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +92,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Python/Decorators.md",
+            "file": "🏠HOME.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "byModifiedTimeReverse",
@@ -93,7 +118,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -102,10 +129,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Python/Decorators.md",
+            "file": "🏠HOME.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -114,8 +143,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Python/Decorators.md"
-          }
+            "file": "Python/Sets and Frozen-Sets.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -132,34 +163,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c0ef85afc6da58ac",
+  "active": "2cefdd34ef4a3804",
   "lastOpenFiles": [
-    "Python/Recursive Functions.md",
-    "Python/Functions.md",
-    "Python.md",
+    "Research-Papers/U-Net.md",
     "🏠HOME.md",
+    "Python.md",
+    "Python/Conditional Statements.md",
+    "Python/Recursive Functions.md",
+    "🔦PyTorch/Fundamentals.md",
+    "Fourier Series + SRGAN.md",
+    "Math/Normal Distribution.md",
+    "NUMpy.md",
+    "docker_mysql.md",
+    "Python/Sets and Frozen-Sets.md",
+    "Personal.md",
+    "🎯Goal.md",
+    "Projects/Daymet - Documentation.md",
+    "Projects/ACCLIP - Documentation.md",
+    "Projects/Cholera 3.md",
+    "Projects/Cholera 1.md",
+    "Projects/Cholera 2.md",
+    "Projects/Cholera - Documentation.md",
+    "slot_machine/Crazy 777 Analysis.md",
+    "Python/Decorators.md",
+    "Python/Functions.md",
     "Python/Dictionaries.md",
     "Python/Iterators and Iterables.md",
     "Python/Loops.md",
     "Python/Basics.md",
-    "Python/Zip.md",
-    "Python/Tuples.md",
-    "Python/List.md",
-    "docker_mysql.md",
-    "Python/Memoization with Decorators.md",
-    "Python/Working with Dictionaries.md",
-    "Python/Conditional Statements.md",
-    "Python/Modules.md",
-    "Python/Decorators.md",
-    "Python/Sets and Frozen-Sets.md",
-    "Python/Extensive Example of SET.md",
-    "Python/File Management.md",
-    "Python/Python/Python (1)/Modules.md",
-    "Python/Python/Python (1)/Zip.md",
-    "Python/Python/Python (1)/Iterators and Iterables.md",
-    "Python/Python/Python (1)/Sets and Frozen-Sets.md",
-    "Python/Python/Python (1)/Memoization with Decorators.md",
-    "Python/Python/Python (1)/File Management.md",
     "Python/Python/Python (1)",
     "Python/Python",
     "Python/Python.zip",
