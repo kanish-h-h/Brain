@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6839b88f421d448f",
+        "id": "af53ad18fa54df34",
         "type": "tabs",
         "children": [
           {
-            "id": "ffe00fe001c91b67",
+            "id": "9f4d9caf0b8ad0d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Learn Machine Learning"
             }
+          },
+          {
+            "id": "04484a8545adc04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏠HOME.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "🏠HOME"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,37 +179,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ffe00fe001c91b67",
+  "active": "629736a8132e8802",
   "lastOpenFiles": [
-    "🏠HOME.md",
+    "Final-project/Documentation.md",
+    "Final-project",
     "Bayes Theorem.md",
     "Learn Machine Learning/Learn Machine Learning.md",
+    "Project/SRGAN-div2k.md",
+    "Project/Documentation.md",
+    "Fourier Series + SRGAN.md",
     "Learn Machine Learning/LML utils/Screenshot_20241229_125348.png",
     "Learn Machine Learning/LML utils/Screenshot_20241229_125213.png",
     "Learn Machine Learning/LML utils/Screenshot_20241229_124722.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_124126.png",
     "Learn Machine Learning/LML utils/Screenshot_20241229_124549.png",
     "Learn Machine Learning/LML utils/Screenshot_20241229_123826.png",
-    "Statistics Fundamentals.md",
-    "Research-Papers/U-Net.md",
-    "Utils/y_preds.png",
-    "Utils/Pasted image 20240105194147.png",
-    "Utils/prediction.md",
-    "Utils/predictionV2.png",
-    "Utils/ss_121537.png",
-    "Utils/Credits+-+Images+&+Music.pdf",
+    "Learn Machine Learning/LML utils/Screenshot_20241227_231506.png",
+    "Learn Machine Learning/LML utils/Screenshot_20241227_230409.png",
     "Learn Machine Learning/LML utils",
     "Learn Machine Learning",
-    "Project/SRGAN-div2k.md",
-    "Project/Documentation.md",
-    "Final-project/Documentation.md",
+    "Project/SRGAN-div2k_files/SRGAN-div2k_8_1.png",
+    "Project/SRGAN-div2k_files/SRGAN-div2k_7_1.png",
+    "Project/SRGAN-div2k_files/SRGAN-div2k_6_1.png",
     "Project/srgan.zip",
+    "Project/SRGAN-div2k_files",
+    "Project",
+    "🏠HOME.md",
+    "Personal.md",
+    "Statistics Fundamentals.md",
+    "Research-Papers/U-Net.md",
+    "Utils/prediction.md",
+    "Utils/Credits+-+Images+&+Music.pdf",
     "__MACOSX/Project/SRGAN-div2k_files",
     "__MACOSX/Project",
     "__MACOSX",
-    "Project/SRGAN-div2k_files",
-    "Project",
-    "Project.zip",
     "Python.md",
     "slot_machine/secrets.md",
     "slot_machine/Random Seeding.md",
@@ -208,8 +225,6 @@
     "🔦PyTorch/0. Fundamentals.md",
     "slot_machine/PseudRandom Number Generators.md",
     "slot_machine/Random.md",
-    "MATPLOTLIB.md",
-    "Python/Zip.md",
-    "Math/Normal Distribution.md"
+    "MATPLOTLIB.md"
   ]
 }
