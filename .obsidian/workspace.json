@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f4d9caf0b8ad0d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learn Machine Learning/Learn Machine Learning.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Learn Machine Learning"
-            }
-          },
-          {
-            "id": "04484a8545adc04f",
+            "id": "6a89b06755b9f1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "🏠HOME"
             }
+          },
+          {
+            "id": "ec80d8d90ee0722b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/4. Training The GAN.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "4. Training The GAN"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8f61ec1a3471e7d1",
@@ -179,12 +179,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "629736a8132e8802",
+  "active": "6a89b06755b9f1c6",
   "lastOpenFiles": [
+    "Projects/4. Training The GAN.md",
+    "🏠HOME.md",
+    "Projects/3. Defining Loss Functions and Optimizers.md",
+    "Projects/2. Designing Generator and Discriminator Models.md",
+    "Projects/1. Understanding the problem.md",
+    "Research-Papers/U-Net.md",
+    "Learn Machine Learning/Learn Machine Learning.md",
     "Final-project/Documentation.md",
     "Final-project",
     "Bayes Theorem.md",
-    "Learn Machine Learning/Learn Machine Learning.md",
     "Project/SRGAN-div2k.md",
     "Project/Documentation.md",
     "Fourier Series + SRGAN.md",
@@ -203,10 +209,8 @@
     "Project/srgan.zip",
     "Project/SRGAN-div2k_files",
     "Project",
-    "🏠HOME.md",
     "Personal.md",
     "Statistics Fundamentals.md",
-    "Research-Papers/U-Net.md",
     "Utils/prediction.md",
     "Utils/Credits+-+Images+&+Music.pdf",
     "__MACOSX/Project/SRGAN-div2k_files",
@@ -222,9 +226,6 @@
     "🔦PyTorch/2. Neural-Network-Classification.md",
     "Python/Loops.md",
     "🔦PyTorch/1. Workflow-Fundamentals.md",
-    "🔦PyTorch/0. Fundamentals.md",
-    "slot_machine/PseudRandom Number Generators.md",
-    "slot_machine/Random.md",
-    "MATPLOTLIB.md"
+    "🔦PyTorch/0. Fundamentals.md"
   ]
 }

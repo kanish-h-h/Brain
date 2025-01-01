@@ -63,6 +63,12 @@ banner_x: 0.63637
 
 # Projects
 
+- **PRNG with GAN**
+	- [[1. Understanding the problem]]
+	- [[2. Designing Generator and Discriminator Models]]
+	- [[3. Defining Loss Functions and Optimizers]]
+	- [[4. Training The GAN]]
+
 - **💀 Cholera**
 	- [[Cholera - Documentation]]
 	- [[Cholera 1]]
