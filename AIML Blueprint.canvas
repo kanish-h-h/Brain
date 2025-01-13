@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"5e8c166f7fd9c2f0","x":-1565,"y":-1435,"width":345,"height":255,"type":"text","text":"#### Columns:\n\n1. **Phase 1: Foundations (Python, Math)**\n2. **Phase 2: Core ML Concepts**\n3. **Phase 3: Advanced Topics (GANs, RL)**\n4. **Phase 4: Career Preparation**"}
+	],
+	"edges":[]
+}

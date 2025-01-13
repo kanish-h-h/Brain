@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "af53ad18fa54df34",
+        "id": "b90b5783ee3c458d",
         "type": "tabs",
         "children": [
           {
-            "id": "6a89b06755b9f1c6",
+            "id": "942bc3f378e5d8f8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,25 +18,54 @@
                 "mode": "preview",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "🏠HOME"
             }
           },
           {
-            "id": "ec80d8d90ee0722b",
+            "id": "8c2af51d02d871dd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "AIML Blueprint.canvas",
+                "viewState": {
+                  "x": -956.621407670691,
+                  "y": -1076.6778757730438,
+                  "zoom": -0.5
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "AIML Blueprint"
+            }
+          },
+          {
+            "id": "0407f2bea2139203",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "76c77cfa87da1d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/4. Training The GAN.md",
-                "mode": "source",
+                "file": "🏚️ AIML.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "4. Training The GAN"
+              "title": "🏚️ AIML"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8f61ec1a3471e7d1",
@@ -154,10 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HOME.md"
+                "file": "🏚️ AIML.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠HOME"
+              "title": "Outline of 🏚️ AIML"
             }
           }
         ],
@@ -179,15 +208,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a89b06755b9f1c6",
+  "active": "76c77cfa87da1d56",
   "lastOpenFiles": [
-    "Projects/4. Training The GAN.md",
+    "Learn Machine Learning/LML utils/shutterstock_681234718.webp",
     "🏠HOME.md",
+    "AIML Blueprint.canvas",
+    "Utils/1025a70dbc96689d04d6bc6552f683bf~2.jpg",
+    "🏚️ AIML.md",
+    "canvas.md",
+    "Planning.md",
+    "Whole Plan.md",
+    "1 - Month Goal.md",
+    "2025-01-13.md",
+    "Python  + ML + Maths.md",
+    "Untitled Kanban.md",
+    "Learn Machine Learning/Learn Machine Learning.md",
+    "Environment-Setup.md",
+    "Projects/4. Training The GAN.md",
     "Projects/3. Defining Loss Functions and Optimizers.md",
     "Projects/2. Designing Generator and Discriminator Models.md",
     "Projects/1. Understanding the problem.md",
     "Research-Papers/U-Net.md",
-    "Learn Machine Learning/Learn Machine Learning.md",
     "Final-project/Documentation.md",
     "Final-project",
     "Bayes Theorem.md",
@@ -205,7 +246,6 @@
     "Learn Machine Learning",
     "Project/SRGAN-div2k_files/SRGAN-div2k_8_1.png",
     "Project/SRGAN-div2k_files/SRGAN-div2k_7_1.png",
-    "Project/SRGAN-div2k_files/SRGAN-div2k_6_1.png",
     "Project/srgan.zip",
     "Project/SRGAN-div2k_files",
     "Project",
@@ -216,16 +256,6 @@
     "__MACOSX/Project/SRGAN-div2k_files",
     "__MACOSX/Project",
     "__MACOSX",
-    "Python.md",
-    "slot_machine/secrets.md",
-    "slot_machine/Random Seeding.md",
-    "slot_machine/PAR Sheets.md",
-    "slot_machine/par sheet analysis.md",
-    "slot_machine/Button + Features.md",
-    "slot_machine/Crazy 777 Analysis.md",
-    "🔦PyTorch/2. Neural-Network-Classification.md",
-    "Python/Loops.md",
-    "🔦PyTorch/1. Workflow-Fundamentals.md",
-    "🔦PyTorch/0. Fundamentals.md"
+    "Python.md"
   ]
 }

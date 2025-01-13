@@ -5,9 +5,14 @@ banner_y: 0.44
 banner_x: 0.63637
 ---
 
-# Road-Map
-- **Machine Learning**
-	- [[Learn Machine Learning]]
+# DashBoards
+
+
+- **Crash Course (AIML):**
+	- [[🏚️ AIML]]
+	- [[Planning]]
+	- [[Whole Plan]]
+	- Canvas -> [[AIML Blueprint.canvas|AIML Blueprint]]
 
 # Data Science
 
@@ -33,6 +38,11 @@ banner_x: 0.63637
 <br>
 - **🔢 Statistics**
 	- [[Statistics Fundamentals]]
+<br>
+- **Machine Learning**
+	- [[1 - Month Goal]]
+	- [[Python  + ML + Maths]]
+	- [[Learn Machine Learning]]
 
 # Slot Machine
 
@@ -68,20 +78,23 @@ banner_x: 0.63637
 	- [[2. Designing Generator and Discriminator Models]]
 	- [[3. Defining Loss Functions and Optimizers]]
 	- [[4. Training The GAN]]
-
+<br>
 - **💀 Cholera**
 	- [[Cholera - Documentation]]
 	- [[Cholera 1]]
 	- [[Cholera 2]]
 	- [[Cholera 3]]
-
+<br>
 - **ACCLIP** 
 	- [[ACCLIP - Documentation]]
 	- [[ACCLIP mission]]
 	- [[ACCLIP mission Details]]
-
+<br>
 - **🗺️ Daymet**
 	- [[Daymet - Documentation]]
+<br>
+- **Mobile Applications**
+	- [[Environment-Setup]]
 
 
 # Vault Info
