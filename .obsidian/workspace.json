@@ -8,50 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "942bc3f378e5d8f8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠HOME.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "🏠HOME"
-            }
-          },
-          {
-            "id": "8c2af51d02d871dd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "AIML Blueprint.canvas",
-                "viewState": {
-                  "x": -956.621407670691,
-                  "y": -1076.6778757730438,
-                  "zoom": -0.5
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AIML Blueprint"
-            }
-          },
-          {
             "id": "0407f2bea2139203",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "76c77cfa87da1d56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,8 +21,7 @@
               "title": "🏚️ AIML"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +164,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "629736a8132e8802",
+  "active": "0407f2bea2139203",
   "lastOpenFiles": [
+    "🏠HOME.md",
     "Brain.zip",
     "Learn Machine Learning/LML utils/shutterstock_681234718.webp",
-    "🏠HOME.md",
     "AIML Blueprint.canvas",
     "Utils/1025a70dbc96689d04d6bc6552f683bf~2.jpg",
     "🏚️ AIML.md",
@@ -255,7 +211,6 @@
     "Utils/Credits+-+Images+&+Music.pdf",
     "__MACOSX/Project/SRGAN-div2k_files",
     "__MACOSX/Project",
-    "__MACOSX",
     "Python.md"
   ]
 }
