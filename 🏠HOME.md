@@ -1,44 +1,47 @@
 ---
 cssclass: dashboard
 banner: "![[1025a70dbc96689d04d6bc6552f683bf~2.jpg]]"
-banner_y: 0.44
+banner_y: 0.38178
 banner_x: 0.63637
 ---
 
 # DashBoards
 
 
-- **Crash Course (AIML):**
+- **Machine Learning:**
 	- [[🏚️ AIML]]
-	- [[Planning]]
-	- [[Whole Plan]]
-	- Canvas -> [[AIML Blueprint.canvas|AIML Blueprint]]
 
 # Data Science
 
+- **Assignments:**
+	- [[Prerequisites]]
+	- [[numpy-exercises]]
+	- [[pandas-exercises]]
+	- [[matplotlib-exercises]]
+
 - **🐍Python**
 	- [[Python]]
-<br>
+
 - **🐋 Docker**
 	- [[docker_mysql]]
-<br>
+
 - **🔦 PyTorch**
 	- [[0. Fundamentals]]
 	- [[1. Workflow-Fundamentals]]
 	- [[2. Neural-Network-Classification]]
-<br>
+
 - **🗃️ SQL**
 	- [[Introduction to SQL]]
 	- [[Intermediate SQL]]
-<br>
+
 - **📊 Data Visualization**
 	- [[NUMpy]]
 	- [[PANDAS]]
 	- [[MATPLOTLIB]]
-<br>
+
 - **🔢 Statistics**
 	- [[Statistics Fundamentals]]
-<br>
+
 - **Machine Learning**
 	- [[1 - Month Goal]]
 	- [[Python  + ML + Maths]]

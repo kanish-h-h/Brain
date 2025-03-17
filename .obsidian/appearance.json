@@ -1,8 +1,8 @@
 {
   "accentColor": "#00ffff",
   "baseFontSizeAction": false,
-  "cssTheme": "Reverie",
-  "theme": "obsidian",
+  "cssTheme": "Tokyo Night",
+  "theme": "system",
   "enabledCssSnippets": [
     "dashboard-ReadLineLength",
     "dashboard"

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "623d10a7c652ba87",
+    "id": "e38a7e911a4e363e",
     "type": "split",
     "children": [
       {
-        "id": "b90b5783ee3c458d",
+        "id": "c1c36081a40bb214",
         "type": "tabs",
         "children": [
           {
-            "id": "0407f2bea2139203",
+            "id": "0db681403afb63ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏚️ AIML.md",
+                "file": "🏠HOME.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🏚️ AIML"
+              "title": "🏠HOME"
             }
           }
         ]
@@ -27,27 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "513e03e50d2c5c38",
+    "id": "04270a9227878b8f",
     "type": "split",
     "children": [
       {
-        "id": "a34f07aed42c87ab",
+        "id": "bd7d99e08cc754f1",
         "type": "tabs",
         "children": [
           {
-            "id": "629736a8132e8802",
+            "id": "daf946f25ff4cc34",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "85f73f449067911d",
+            "id": "004a4b58c9eee796",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +65,7 @@
             }
           },
           {
-            "id": "f8257de2be559463",
+            "id": "5e5756ca35515e6c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "8f61ec1a3471e7d1",
+    "id": "03acb14244bdb45a",
     "type": "split",
     "children": [
       {
-        "id": "b6e3b2bc1c9bc423",
+        "id": "5f6fc84d15551e4e",
         "type": "tabs",
         "children": [
           {
-            "id": "24eed7fe9722a14d",
+            "id": "ed5059f3112f4629",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏠HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,50 +103,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🏠HOME"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "f1f72d789424ccc9",
+            "id": "27d9f407d456be38",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏠HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🏠HOME"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c919d798c4540e36",
+            "id": "3ecdd0fae44ef655",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "53fff22ecfdbee66",
+            "id": "a21ec5352fb6ef6a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏚️ AIML.md"
+                "file": "🏠HOME.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏚️ AIML"
+              "title": "Outline of 🏠HOME"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,56 +164,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0407f2bea2139203",
-  "lastOpenFiles": [
-    "🏠HOME.md",
-    "Brain.zip",
-    "Learn Machine Learning/LML utils/shutterstock_681234718.webp",
-    "AIML Blueprint.canvas",
-    "Utils/1025a70dbc96689d04d6bc6552f683bf~2.jpg",
-    "🏚️ AIML.md",
-    "canvas.md",
-    "Planning.md",
-    "Whole Plan.md",
-    "1 - Month Goal.md",
-    "2025-01-13.md",
-    "Python  + ML + Maths.md",
-    "Untitled Kanban.md",
-    "Learn Machine Learning/Learn Machine Learning.md",
-    "Environment-Setup.md",
-    "Projects/4. Training The GAN.md",
-    "Projects/3. Defining Loss Functions and Optimizers.md",
-    "Projects/2. Designing Generator and Discriminator Models.md",
-    "Projects/1. Understanding the problem.md",
-    "Research-Papers/U-Net.md",
-    "Final-project/Documentation.md",
-    "Final-project",
-    "Bayes Theorem.md",
-    "Project/SRGAN-div2k.md",
-    "Project/Documentation.md",
-    "Fourier Series + SRGAN.md",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_125348.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_125213.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_124722.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_124549.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241229_123826.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241227_231506.png",
-    "Learn Machine Learning/LML utils/Screenshot_20241227_230409.png",
-    "Learn Machine Learning/LML utils",
-    "Learn Machine Learning",
-    "Project/SRGAN-div2k_files/SRGAN-div2k_8_1.png",
-    "Project/srgan.zip",
-    "Project/SRGAN-div2k_files",
-    "Project",
-    "Personal.md",
-    "Statistics Fundamentals.md",
-    "Utils/prediction.md",
-    "Utils/Credits+-+Images+&+Music.pdf",
-    "__MACOSX/Project/SRGAN-div2k_files",
-    "__MACOSX/Project",
-    "Python.md"
-  ]
+  "active": "0db681403afb63ed",
+  "lastOpenFiles": []
 }

@@ -3,9 +3,11 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "readableLineLength": true,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Learn Machine Learning/LML utils",
-  "promptDelete": false
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "vimMode": false
 }

@@ -9,7 +9,6 @@
 |        | Tensorflow | 60%           |
 |        | Pytorch    | 35%           |
 |        | ML algo's  | 40%           |
-|        |            |               |
 
 - SQL: https://sqlzoo.net/wiki/SQL_Tutorial
 
@@ -155,5 +154,4 @@
 |         | Data Visualization |     3     |
 |         |  Data Preparation  |     3     |
 |         |   Data Modeling    |     3     |
-
 
