@@ -5,6 +5,12 @@ banner_y: 0.38178
 banner_x: 0.63637
 ---
 
+# Prompts
+
+- **Project prompt:**
+	- [[AI/ML master prompt]]
+
+
 # DashBoards
 
 

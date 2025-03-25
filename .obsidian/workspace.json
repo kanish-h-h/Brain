@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c36081a40bb214",
+        "id": "0902518c391ba475",
         "type": "tabs",
         "children": [
           {
-            "id": "0db681403afb63ed",
+            "id": "6314dbeaf9764d90",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,11 +18,27 @@
                 "mode": "preview",
                 "source": true
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "🏠HOME"
             }
+          },
+          {
+            "id": "4c32fe858d3896fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final-project/SRGAN Training Outputs.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SRGAN Training Outputs"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "03acb14244bdb45a",
@@ -94,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏠HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 🏠HOME"
             }
           },
           {
@@ -140,16 +159,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "Final-project/SRGAN Training Outputs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠HOME"
+              "title": "Outline of SRGAN Training Outputs"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,6 +188,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0db681403afb63ed",
-  "lastOpenFiles": []
+  "active": "4c32fe858d3896fe",
+  "lastOpenFiles": [
+    "Final-project/Documentation.md",
+    "Final-project/SRGAN Training Outputs.md",
+    "🏠HOME.md",
+    "Final-project/attachments/Pasted image 20250324010753.png",
+    "Final-project/attachments/Pasted image 20250324010720.png",
+    "Final-project/attachments/Pasted image 20250324002811.png",
+    "Final-project/training_loss_7.csv",
+    "Final-project/training_loss_7.csv.crdownload",
+    "Final-project/training_loss_6.csv",
+    "Final-project/attachments/Pasted image 20250324002747.png",
+    "Final-project/attachments/Pasted image 20250323235708.png",
+    "Final-project/attachments/Pasted image 20250323235655.png",
+    "Final-project/training_loss_4.csv",
+    "Final-project/training_loss_4.csv.crdownload",
+    "Final-project/attachments/Pasted image 20250323231413.png",
+    "Final-project/attachments/Pasted image 20250323231341.png",
+    "Final-project/training_loss_2.csv",
+    "Final-project/training_loss_2.csv.crdownload",
+    "Final-project/attachments/Pasted image 20250323223817.png",
+    "Final-project/attachments/Pasted image 20250323223746.png",
+    "Final-project/training_loss_1.csv",
+    "Project/Documentation.md",
+    "Project/SRGAN-div2k.md",
+    "Final-project/attachments/training_loss_1.csv",
+    "Final-project/attachments",
+    "AI/ML master prompt.md"
+  ]
 }

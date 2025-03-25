@@ -3,7 +3,7 @@
   "defaultViewMode": "preview",
   "livePreview": false,
   "readableLineLength": true,
-  "propertiesInDocument": "visible",
+  "propertiesInDocument": "hidden",
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachments",
