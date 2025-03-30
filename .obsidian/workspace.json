@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6c35c092c7e9bd1b",
+        "id": "27892683259c6f18",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0fae861854da29",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏠HOME.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "🏠HOME"
-            }
-          },
-          {
-            "id": "24760be1242b803c",
+            "id": "ddde8d48b7360774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/ML master prompt.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ML master prompt"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,17 +138,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Final-project/SRGAN Training Outputs.md",
+                "file": "🏠HOME.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SRGAN Training Outputs"
+              "title": "Outline of 🏠HOME"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,33 +167,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24760be1242b803c",
+  "active": "ddde8d48b7360774",
   "lastOpenFiles": [
-    "🏠HOME.md",
-    "Final-project/SRGAN Training Outputs.md",
-    "Final-project/Documentation.md",
-    "Final-project/attachments/Pasted image 20250324010753.png",
-    "Final-project/attachments/Pasted image 20250324010720.png",
-    "Final-project/attachments/Pasted image 20250324002811.png",
-    "Final-project/training_loss_7.csv",
-    "Final-project/training_loss_7.csv.crdownload",
-    "Final-project/training_loss_6.csv",
-    "Final-project/attachments/Pasted image 20250324002747.png",
-    "Final-project/attachments/Pasted image 20250323235708.png",
-    "Final-project/attachments/Pasted image 20250323235655.png",
-    "Final-project/training_loss_4.csv",
-    "Final-project/training_loss_4.csv.crdownload",
-    "Final-project/attachments/Pasted image 20250323231413.png",
-    "Final-project/attachments/Pasted image 20250323231341.png",
-    "Final-project/training_loss_2.csv",
-    "Final-project/training_loss_2.csv.crdownload",
-    "Final-project/attachments/Pasted image 20250323223817.png",
-    "Final-project/attachments/Pasted image 20250323223746.png",
-    "Final-project/training_loss_1.csv",
-    "Project/Documentation.md",
-    "Project/SRGAN-div2k.md",
-    "Final-project/attachments/training_loss_1.csv",
-    "Final-project/attachments",
-    "AI/ML master prompt.md"
+    "zip.sh",
+    "README.md",
+    "Environment-Setup.md",
+    "docker_mysql.md",
+    "Banners.md",
+    "🎯Goal.md",
+    "⏸️To-Do.md",
+    "Utils/ss_131512.png",
+    "Utils/MATPLOTLIB_30_0.png",
+    "Utils/lr_predicted.png",
+    "Utils/PANDAS_48_0.png",
+    "Utils/MATPLOTLIB_85_0.png",
+    "Utils/NUMpy_285_0.png",
+    "Utils/my_wiggly_animation.mp4",
+    "Utils/PANDAS_61_0.png",
+    "Utils/MATPLOTLIB_70_0.png",
+    "Utils/MATPLOTLIB_93_0.png",
+    "Utils/PANDAS_185_0.png",
+    "Utils/prediction.md",
+    "Utils/Credits+-+Images+&+Music.pdf",
+    "Utils/MATPLOT_V1.mp4",
+    "📁Research_Papers/utils-rp/U-Net-CNN.pdf",
+    "📁Research_Papers/U-Net.md",
+    "📁Prompts/ML master prompt.md",
+    "📁Projects/📁SRGAN_Final_Year/attachments/training_loss_1.csv",
+    "📁Projects/📁Casino_Games/📁Docs/secrets.md",
+    "📁Projects/📁Casino_Games/📁Docs/Random Seeding.md",
+    "📁Projects/📁Casino_Games/📁Docs/Random.md",
+    "📁Projects/📁Casino_Games/📁Docs/PseudRandom Number Generators.md",
+    "📁Projects/📁Casino_Games/📁Docs/PAR Sheets.md",
+    "📁Projects/📁Casino_Games/📁Docs/par sheet analysis.md",
+    "📁Projects/📁Casino_Games/📁Docs/Crazy 777 Analysis.md",
+    "📁Projects/📁Casino_Games/📁Docs/Button + Features.md",
+    "📁Projects/📁Sentiment_Analysis/Sentiment Analysis System Docs.md",
+    "📁Projects/📁Image_classification/Image Classification Docs.md",
+    "📁Projects/📁Linear Regression/Custom Linear Regression Docs.md",
+    "📁Projects/📁Housing_Price/Housing Price Predictor Docs.md",
+    "📁Projects/📁Titanic_Survival/Titanic Survival Prediction Docs.md",
+    "📁Projects/📁Iris_Flower/Iris Docs.md",
+    "📁Projects/📁EDA/EDA Implementation.md",
+    "📁Projects/📁EDA/EDA Docs.md",
+    "📁Projects/📁SRGAN_Final_Year/training_loss_7.csv",
+    "📁Projects/📁SRGAN_Final_Year/training_loss_6.csv",
+    "📁Projects/📁SRGAN_Final_Year/training_loss_4.csv",
+    "📁Projects/📁SRGAN_Final_Year/training_loss_2.csv",
+    "📁Projects/📁SRGAN_Final_Year/training_loss_1.csv",
+    "AIML Blueprint.canvas"
   ]
 }
