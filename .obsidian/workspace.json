@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0902518c391ba475",
+        "id": "6c35c092c7e9bd1b",
         "type": "tabs",
         "children": [
           {
-            "id": "6314dbeaf9764d90",
+            "id": "8a0fae861854da29",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "4c32fe858d3896fe",
+            "id": "24760be1242b803c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Final-project/SRGAN Training Outputs.md",
+                "file": "AI/ML master prompt.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SRGAN Training Outputs"
+              "title": "ML master prompt"
             }
           }
         ],
@@ -188,11 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c32fe858d3896fe",
+  "active": "24760be1242b803c",
   "lastOpenFiles": [
-    "Final-project/Documentation.md",
-    "Final-project/SRGAN Training Outputs.md",
     "🏠HOME.md",
+    "Final-project/SRGAN Training Outputs.md",
+    "Final-project/Documentation.md",
     "Final-project/attachments/Pasted image 20250324010753.png",
     "Final-project/attachments/Pasted image 20250324010720.png",
     "Final-project/attachments/Pasted image 20250324002811.png",
