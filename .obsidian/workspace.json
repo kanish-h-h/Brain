@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "27892683259c6f18",
+        "id": "db3a77a8fe3760e4",
         "type": "tabs",
         "children": [
           {
-            "id": "ddde8d48b7360774",
+            "id": "2e6ba0c95dcb2d96",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁Dashboard/🏠HOME.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🏠HOME"
+            }
+          },
+          {
+            "id": "1ccb9daeb9cb6bc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "03acb14244bdb45a",
@@ -138,17 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏠HOME.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠HOME"
+              "title": "Outline of README"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,14 +187,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddde8d48b7360774",
+  "active": "1ccb9daeb9cb6bc1",
   "lastOpenFiles": [
+    "Life of Luxury Lite.md",
+    "README.md",
+    "God of Wealth Docs.md",
+    "Buffalo 7.md",
+    "docker_mysql.md",
+    "Environment-Setup.md",
+    "📁Dashboard/🏠HOME.md",
+    "📁Dashboard/🏚️ AIML.md",
+    "📁Projects/📁Titanic_Survival/Titanic Survival Prediction Docs.md",
+    "📁Prompts/The Senior MLE Gauntlet Prompt.md",
+    "📁Prompts/ML master prompt.md",
+    "📁AI_ML/📁MLE/The Builders’ Crucible (12 Projects That Force You to Master ML Engineering).md",
+    "📁GitHub/The Ultimate GitHub Mastery Guide for Machine Learning Engineers.md",
+    "📁GitHub/Slash Command (label & estimate).md",
+    "📁GitHub",
+    "📁AI_ML/📁MLE/breakdown.md",
+    "📁AI_ML/📁MLE/Approach Roadmap.md",
+    "📁AI_ML/📁MLE/Optimzation for Constriants.md",
+    "📁AI_ML/📁MLE",
+    "📁AI_ML/Python  + ML + Maths.md",
+    "📁AI_ML/MLOps Concepts.md",
+    "📁AI_ML/1 - Month Goal.md",
+    "📁Maths/📁Math-Model/Slot Machine Math Model Template.md",
     "Brain.zip",
     "zicSYdIN",
     "zip.sh",
-    "README.md",
-    "Environment-Setup.md",
-    "docker_mysql.md",
     "Banners.md",
     "🎯Goal.md",
     "⏸️To-Do.md",
@@ -194,27 +234,7 @@
     "Utils/MATPLOT_V1.mp4",
     "📁Research_Papers/utils-rp/U-Net-CNN.pdf",
     "📁Research_Papers/U-Net.md",
-    "📁Prompts/ML master prompt.md",
     "📁Projects/📁SRGAN_Final_Year/attachments/training_loss_1.csv",
-    "📁Projects/📁Casino_Games/📁Docs/secrets.md",
-    "📁Projects/📁Casino_Games/📁Docs/Random Seeding.md",
-    "📁Projects/📁Casino_Games/📁Docs/Random.md",
-    "📁Projects/📁Casino_Games/📁Docs/PseudRandom Number Generators.md",
-    "📁Projects/📁Casino_Games/📁Docs/PAR Sheets.md",
-    "📁Projects/📁Casino_Games/📁Docs/par sheet analysis.md",
-    "📁Projects/📁Casino_Games/📁Docs/Crazy 777 Analysis.md",
-    "📁Projects/📁Casino_Games/📁Docs/Button + Features.md",
-    "📁Projects/📁Sentiment_Analysis/Sentiment Analysis System Docs.md",
-    "📁Projects/📁Image_classification/Image Classification Docs.md",
-    "📁Projects/📁Linear Regression/Custom Linear Regression Docs.md",
-    "📁Projects/📁Housing_Price/Housing Price Predictor Docs.md",
-    "📁Projects/📁Titanic_Survival/Titanic Survival Prediction Docs.md",
-    "📁Projects/📁Iris_Flower/Iris Docs.md",
-    "📁Projects/📁EDA/EDA Implementation.md",
-    "📁Projects/📁EDA/EDA Docs.md",
-    "📁Projects/📁SRGAN_Final_Year/training_loss_7.csv",
-    "📁Projects/📁SRGAN_Final_Year/training_loss_6.csv",
-    "📁Projects/📁SRGAN_Final_Year/training_loss_4.csv",
     "AIML Blueprint.canvas"
   ]
 }

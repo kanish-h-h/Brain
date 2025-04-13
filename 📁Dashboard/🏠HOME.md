@@ -1,7 +1,7 @@
 ---
 cssclass: dashboard
 banner: "![[1025a70dbc96689d04d6bc6552f683bf~2.jpg]]"
-banner_y: 0.38178
+banner_y: 0.464
 banner_x: 0.63637
 ---
 
@@ -11,6 +11,13 @@ banner_x: 0.63637
 
 - **Dashboard:**
 	- [[🏚️ AIML]]
+
+- **Builder's Crucible:**
+	- [RoadMap::[[The Builders’ Crucible (12 Projects That Force You to Master ML Engineering) | 12 Projects]]]
+	- [Optimization::[[Optimzation for Constriants | Opt]]]
+	- [Approach:: [[Approach Roadmap | Roadmap]]]
+	- [Breakdown::[[breakdown]]]
+	- [[The Ultimate GitHub Mastery Guide for Machine Learning Engineers | MLE + Github]]
 
 # Data Science
 
@@ -52,6 +59,7 @@ banner_x: 0.63637
 
 - **Project prompt:**
 	- [[ML master prompt]]
+	- [[The Senior MLE Gauntlet Prompt]]
 
 
 # Slot Machine
