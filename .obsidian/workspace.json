@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "1ccb9daeb9cb6bc1",
+            "id": "66494f503caa6004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "📁Projects/📁Time-Series Anomaly Detection at Scale/Documentation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Documentation"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#function",
+                "query": "tag:#prompt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,17 +158,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "📁Projects/📁Time-Series Anomaly Detection at Scale/Documentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Documentation"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,26 +187,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ccb9daeb9cb6bc1",
+  "active": "daf946f25ff4cc34",
   "lastOpenFiles": [
+    "📁Projects/📁Titanic_Survival/Documentation.md",
+    "📁Projects/📁Time-Series Anomaly Detection at Scale/Documentation.md",
+    "📁Dashboard/🏠HOME.md",
+    "📁Projects/📁Time-Series Anomaly Detection at Scale",
+    "📁AI_ML/📁MLE/breakdown.md",
+    "📁Prompts/The Senior MLE Gauntlet Prompt.md",
+    "📁AI_ML/📁MLE/The Builders’ Crucible (12 Projects That Force You to Master ML Engineering).md",
+    "📁AI_ML/📁MLE/Approach Roadmap.md",
+    "📁GitHub/The Ultimate GitHub Mastery Guide for Machine Learning Engineers.md",
+    "README.md",
     "ziW0BxCM",
     "Life of Luxury Lite.md",
-    "README.md",
     "God of Wealth Docs.md",
     "Buffalo 7.md",
     "docker_mysql.md",
     "Environment-Setup.md",
-    "📁Dashboard/🏠HOME.md",
     "📁Dashboard/🏚️ AIML.md",
-    "📁Projects/📁Titanic_Survival/Titanic Survival Prediction Docs.md",
-    "📁Prompts/The Senior MLE Gauntlet Prompt.md",
     "📁Prompts/ML master prompt.md",
-    "📁AI_ML/📁MLE/The Builders’ Crucible (12 Projects That Force You to Master ML Engineering).md",
-    "📁GitHub/The Ultimate GitHub Mastery Guide for Machine Learning Engineers.md",
     "📁GitHub/Slash Command (label & estimate).md",
     "📁GitHub",
-    "📁AI_ML/📁MLE/breakdown.md",
-    "📁AI_ML/📁MLE/Approach Roadmap.md",
     "📁AI_ML/📁MLE/Optimzation for Constriants.md",
     "📁AI_ML/📁MLE",
     "📁AI_ML/Python  + ML + Maths.md",
@@ -233,8 +235,6 @@
     "Utils/prediction.md",
     "Utils/Credits+-+Images+&+Music.pdf",
     "Utils/MATPLOT_V1.mp4",
-    "📁Research_Papers/utils-rp/U-Net-CNN.pdf",
-    "📁Projects/📁SRGAN_Final_Year/attachments/training_loss_1.csv",
     "AIML Blueprint.canvas"
   ]
 }

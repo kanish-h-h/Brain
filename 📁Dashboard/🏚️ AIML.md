@@ -36,7 +36,7 @@ banner_x: 0.63637
 		- [[Iris Docs]]
 		- [[Iris Implementation]]
 	- **Titanic Survival Prediction**
-		- [[Titanic Survival Prediction Docs]]
+		- [[📁Projects/📁Titanic_Survival/Documentation]]
 		- [[Titanic Survival Prediction Implementation]]
 	- **Housing Price Predictor**
 		- [[Housing Price Predictor Docs]]
