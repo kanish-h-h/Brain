@@ -6,6 +6,10 @@ banner_x: 0.63637
 ---
 
 
+# To-Do
+- [ ] Anomaly detection write docs for phase 2 3 4 5
+- [ ] start with phase 1
+
 
 # Machine Learning
 
