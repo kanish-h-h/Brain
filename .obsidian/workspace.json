@@ -187,8 +187,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "daf946f25ff4cc34",
+  "active": "66494f503caa6004",
   "lastOpenFiles": [
+    "zip.sh~",
+    "README.md~",
     "📁Projects/📁Titanic_Survival/Documentation.md",
     "📁Projects/📁Time-Series Anomaly Detection at Scale/Documentation.md",
     "📁Dashboard/🏠HOME.md",
@@ -232,9 +234,7 @@
     "Utils/MATPLOTLIB_70_0.png",
     "Utils/MATPLOTLIB_93_0.png",
     "Utils/PANDAS_185_0.png",
-    "Utils/prediction.md",
     "Utils/Credits+-+Images+&+Music.pdf",
-    "Utils/MATPLOT_V1.mp4",
     "AIML Blueprint.canvas"
   ]
 }
