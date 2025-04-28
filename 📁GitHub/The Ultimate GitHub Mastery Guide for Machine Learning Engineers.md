@@ -119,7 +119,6 @@ Confidence < 10% for nonsense inputs
 
 **Related Resources:**
 - [Paper on Out-of-Distribution Detection](link)
-- Issue #32 (similar problem last month)
 ```
 
 **Pro Moves:**

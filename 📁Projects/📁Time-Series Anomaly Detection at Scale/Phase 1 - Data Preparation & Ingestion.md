@@ -1,4 +1,5 @@
 [Whole Plan::[[Plan (deepseek)]]]
+[Phase 2::[[Phase 2 - Modelling & Training | Modeling & Training]]]
 
 ---
  Below is a **task-by-task breakdown**, including workflows, tools, roadblocks, and debugging strategies:

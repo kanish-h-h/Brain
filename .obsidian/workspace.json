@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e38a7e911a4e363e",
+    "id": "7f9842af742bc05b",
     "type": "split",
     "children": [
       {
-        "id": "db3a77a8fe3760e4",
+        "id": "985f4daf2d06a2be",
         "type": "tabs",
         "children": [
           {
-            "id": "2e6ba0c95dcb2d96",
+            "id": "697be16938744d9e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,6 +22,81 @@
               "icon": "lucide-file",
               "title": "🏠HOME"
             }
+          },
+          {
+            "id": "1f5c4cbe1dcd8d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁Books/📁Statistical Analysis & ML/7-Days.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "7-Days"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7555e3b293ce5fd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15d92bfca1d866e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁Books/📁Statistical Analysis & ML/Flexible Time.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Flexible Time"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2fbe4cc37860b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "827ef085067287f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁Books/📁Statistical Analysis & ML/Breakdown.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Breakdown"
+            }
+          }
+        ]
+      },
+      {
+        "id": "071dd441e6290c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1712176d06a481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁Books/📁Statistical Analysis & ML/Projects.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
           }
         ]
       }
@@ -29,15 +104,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "04270a9227878b8f",
+    "id": "3fc2ed4eeefd0002",
     "type": "split",
     "children": [
       {
-        "id": "bd7d99e08cc754f1",
+        "id": "d3f5dfbdb34fa550",
         "type": "tabs",
         "children": [
           {
-            "id": "daf946f25ff4cc34",
+            "id": "cc13d65c9c4221cc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +125,12 @@
             }
           },
           {
-            "id": "004a4b58c9eee796",
+            "id": "6fbb7d603ed08148",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#prompt",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +142,7 @@
             }
           },
           {
-            "id": "5e5756ca35515e6c",
+            "id": "676262bff32c1241",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,19 +155,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "03acb14244bdb45a",
+    "id": "3df882c399f97d63",
     "type": "split",
     "children": [
       {
-        "id": "5f6fc84d15551e4e",
+        "id": "7bcbdb89390c5240",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5059f3112f4629",
+            "id": "c8e2099c5587b14d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +185,7 @@
             }
           },
           {
-            "id": "27d9f407d456be38",
+            "id": "4d08a59466e00229",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +199,7 @@
             }
           },
           {
-            "id": "3ecdd0fae44ef655",
+            "id": "60915f52eb714e9a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +214,7 @@
             }
           },
           {
-            "id": "a21ec5352fb6ef6a",
+            "id": "7d62e60f3f8b848b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -154,8 +228,7 @@
               "title": "Outline of 🏠HOME"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,54 +247,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e6ba0c95dcb2d96",
+  "active": "6a1712176d06a481",
   "lastOpenFiles": [
-    "📁Projects/📁Time-Series Anomaly Detection at Scale/Plan (gpt).md",
-    "📁Projects/📁Time-Series Anomaly Detection at Scale/Plan (deepseek).md",
-    "📁Projects/📁Time-Series Anomaly Detection at Scale/Phase 1 - Data Preparation & Ingestion.md",
+    "📁Books/📁Statistical Analysis & ML/Breakdown.md",
+    "📁Books/📁Statistical Analysis & ML/Flexible Time.md",
+    "📁Books/📁Statistical Analysis & ML/7-Days.md",
+    "📁Books/📁Statistical Analysis & ML/Projects.md",
     "📁Dashboard/🏠HOME.md",
-    "📁Projects/📁Time-Series Anomaly Detection at Scale/Git Repo.md",
-    "Untitled.md",
-    "zip.sh~",
-    "README.md~",
-    "📁Projects/📁Titanic_Survival/Documentation.md",
-    "📁Projects/📁Time-Series Anomaly Detection at Scale",
-    "📁AI_ML/📁MLE/breakdown.md",
-    "📁Prompts/The Senior MLE Gauntlet Prompt.md",
-    "📁AI_ML/📁MLE/The Builders’ Crucible (12 Projects That Force You to Master ML Engineering).md",
-    "📁AI_ML/📁MLE/Approach Roadmap.md",
-    "📁GitHub/The Ultimate GitHub Mastery Guide for Machine Learning Engineers.md",
-    "README.md",
-    "ziW0BxCM",
-    "Life of Luxury Lite.md",
-    "God of Wealth Docs.md",
-    "Buffalo 7.md",
-    "docker_mysql.md",
-    "Environment-Setup.md",
-    "📁Dashboard/🏚️ AIML.md",
-    "📁Prompts/ML master prompt.md",
-    "📁GitHub/Slash Command (label & estimate).md",
-    "📁GitHub",
+    "📁Books/📁Statistical Analysis & ML",
+    "📁Books",
     "📁AI_ML/📁MLE/Optimzation for Constriants.md",
-    "📁AI_ML/📁MLE",
-    "📁AI_ML/Python  + ML + Maths.md",
-    "📁AI_ML/MLOps Concepts.md",
-    "📁AI_ML/1 - Month Goal.md",
-    "📁Maths/📁Math-Model/Slot Machine Math Model Template.md",
-    "Brain.zip",
-    "zicSYdIN",
-    "zip.sh",
-    "Utils/ss_131512.png",
-    "Utils/MATPLOTLIB_30_0.png",
-    "Utils/lr_predicted.png",
-    "Utils/PANDAS_48_0.png",
-    "Utils/MATPLOTLIB_85_0.png",
-    "Utils/NUMpy_285_0.png",
-    "Utils/my_wiggly_animation.mp4",
-    "Utils/PANDAS_61_0.png",
-    "Utils/MATPLOTLIB_70_0.png",
-    "Utils/MATPLOTLIB_93_0.png",
-    "Utils/PANDAS_185_0.png",
-    "AIML Blueprint.canvas"
+    "📁Maths/📁Statistics/Visualizing and Summarizing Data.md",
+    "📁Maths/📁Statistics/Untitled.md",
+    "📁Maths/📁Statistics/attachments/Pasted image 20250425145009.png",
+    "📁Maths/📁Statistics/attachments/Pasted image 20250425143628.png"
   ]
 }

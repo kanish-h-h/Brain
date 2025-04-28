@@ -7,8 +7,9 @@ banner_x: 0.63637
 
 
 # To-Do
-- [ ] Anomaly detection write docs for phase 2 3 4 5
-- [ ] start with phase 1
+- [x] Plinko
+- [ ] Limbo
+- [ ] Anomaly detection
 
 
 # Machine Learning
@@ -20,7 +21,7 @@ banner_x: 0.63637
 	- [RoadMap::[[The Builders’ Crucible (12 Projects That Force You to Master ML Engineering) | 12 Projects]]]
 	- [Optimization::[[Optimzation for Constriants | Opt]]]
 	- [Approach:: [[Approach Roadmap | Roadmap]]]
-	- [Breakdown::[[breakdown]]]
+	- [Breakdown::[[📁AI_ML/📁MLE/breakdown]]]
 	- [[The Ultimate GitHub Mastery Guide for Machine Learning Engineers | MLE + Github]]
 
 # Data Science
@@ -58,6 +59,11 @@ banner_x: 0.63637
 	- [[1 - Month Goal]]
 	- [[Python  + ML + Maths]]
 	- [[Learn Machine Learning]]
+
+# Statistics
+- **Interpret data in a statistical way through examples:**
+	- [[Visualizing and Summarizing Data]]
+	- [[Examples]]
 
 # Prompts
 
