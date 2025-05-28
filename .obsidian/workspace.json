@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "985f4daf2d06a2be",
+        "id": "3ebee6c7dad31435",
         "type": "tabs",
         "children": [
           {
-            "id": "697be16938744d9e",
+            "id": "36dfe5fba821a791",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -24,81 +24,19 @@
             }
           },
           {
-            "id": "1f5c4cbe1dcd8d36",
+            "id": "8cedc6e5a49ffadf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "📁Books/📁Statistical Analysis & ML/7-Days.md",
-                "mode": "preview",
-                "source": true
+                "file": "📁Projects/📁SRGAN_Final_Year/attachments/Pasted image 20250324010720.png"
               },
-              "icon": "lucide-file",
-              "title": "7-Days"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250324010720"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7555e3b293ce5fd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "15d92bfca1d866e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁Books/📁Statistical Analysis & ML/Flexible Time.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Flexible Time"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a2fbe4cc37860b87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "827ef085067287f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁Books/📁Statistical Analysis & ML/Breakdown.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Breakdown"
-            }
-          }
-        ]
-      },
-      {
-        "id": "071dd441e6290c3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6a1712176d06a481",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁Books/📁Statistical Analysis & ML/Projects.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Projects"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -219,16 +157,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📁Dashboard/🏠HOME.md",
+                "file": "📁Projects/🏮Lisa/Phase 1 -  PDF Processing Pipeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 🏠HOME"
+              "title": "Outline of Phase 1 -  PDF Processing Pipeline"
+            }
+          },
+          {
+            "id": "381543fd0fa65662",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "egg",
+              "title": "Smart Gantt"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -244,21 +193,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-gantt:Smart Gantt": false
     }
   },
-  "active": "6a1712176d06a481",
+  "active": "8cedc6e5a49ffadf",
   "lastOpenFiles": [
-    "📁Books/📁Statistical Analysis & ML/Breakdown.md",
-    "📁Books/📁Statistical Analysis & ML/Flexible Time.md",
-    "📁Books/📁Statistical Analysis & ML/7-Days.md",
-    "📁Books/📁Statistical Analysis & ML/Projects.md",
+    "📁Projects/📁SRGAN_Final_Year/SRGAN Training Outputs.md",
+    "📁Projects/📁SRGAN_Final_Year/Documentation.md",
+    "📁Projects/📁Skin-sight/Documentation.md",
     "📁Dashboard/🏠HOME.md",
+    "📁Dashboard/Home.md",
+    "📁Projects/🏮Lisa/RoadMap.md",
+    "📁Projects/🏮Lisa/Phase 1 -  PDF Processing Pipeline.md",
+    "📁Dashboard/Untitled.md",
+    "📁Dashboard/Untitled 1.md",
+    "📁Dashboard/Untitled 2.md",
+    "📁Projects/📁Skin-sight/Prompt.md",
+    "📁Projects/🏮Lisa/Prompt.md",
+    "📁Projects/📁Skin-sight",
+    "📁Projects/Untitled.md",
+    "📁Projects/📁Casino_Games/📁Plinko/Documentation.md",
+    "📁Linux/Tmux.md",
+    "📁Linux/attachments/osdc_cheatsheet-tmux-2021.6.25.pdf",
+    "📁Linux/attachments/Screenshot_20250502_145052.png",
+    "📁Linux/attachments/Screenshot_20250502_150054.png",
+    "📁Linux/attachments/tmux-custom-screen01.png.webp",
+    "📁Linux/attachments/tmux_cheatsheet.jpg",
+    "📁Linux/attachments",
+    "📁Linux",
+    "Spinning Wheel.md",
+    "xp system.md",
+    "📁Projects/🏮Lisa/AI-Powered Book Mentor (Idea).md",
+    "📁Projects/🏮Lisa/Git Strategy.md",
+    "📁Projects/🏮Lisa/Colab-Centric Optimization.md",
+    "📁GitHub/GitHub-Actions.md",
+    "📁GitHub/attachments/Pasted image 20250501231404.png",
+    "📁GitHub/attachments",
+    "📁Career_Growth/Resume.md",
+    "README.md",
+    "📁GitHub/git-recovery-code.md",
+    "📁Projects/🏮Lisa",
+    "📁Projects/Intelligent Document Processing (IDP) Pipeline with AI.md",
+    "📁Projects/AI-Powered Healthcare Diagnostics Assistant.md",
+    "📁Projects/📁Casino_Games/📁Plinko",
     "📁Books/📁Statistical Analysis & ML",
     "📁Books",
-    "📁AI_ML/📁MLE/Optimzation for Constriants.md",
-    "📁Maths/📁Statistics/Visualizing and Summarizing Data.md",
-    "📁Maths/📁Statistics/Untitled.md",
     "📁Maths/📁Statistics/attachments/Pasted image 20250425145009.png",
     "📁Maths/📁Statistics/attachments/Pasted image 20250425143628.png"
   ]

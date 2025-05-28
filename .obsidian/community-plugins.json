@@ -3,5 +3,7 @@
   "homepage",
   "obsidian-banners",
   "code-emitter",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "smart-gantt",
+  "obsidian-plugin-toc"
 ]

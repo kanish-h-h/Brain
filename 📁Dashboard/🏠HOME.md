@@ -2,7 +2,7 @@
 cssclass: dashboard
 banner: "![[1025a70dbc96689d04d6bc6552f683bf~2.jpg]]"
 banner_y: 0.464
-banner_x: 0.63637
+banner_x: 0.5965
 ---
 
 
@@ -27,7 +27,7 @@ banner_x: 0.63637
 # Data Science
 
 - **Assignments:**
-	- [[Prerequisites]]
+	- [[📁AI_ML/Prerequisites]]
 	- [[numpy-exercises]]
 	- [[pandas-exercises]]
 	- [[matplotlib-exercises]]
@@ -101,6 +101,12 @@ banner_x: 0.63637
 
 # Projects
 
+- **Projects Ideas**:
+	- [[Projects Ideas]]
+
+- **Large-Scale, Job-Ready Projects**:
+	- 
+
 - **PRNG with GAN**
 	- [[1. Understanding the problem]]
 	- [[2. Designing Generator and Discriminator Models]]
@@ -127,7 +133,7 @@ banner_x: 0.63637
 
 # Vault Info
 
-- 🗄️ Recent file updates `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- 🗄️ Recent file updates `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(15).file.link)`
 <br>
 - 🔖 Tagged: favorite `$=dv.list(dv.pages('#favourite').sort(f=>f.file.name,"desc").limit(4).file.link)`
 <br>
